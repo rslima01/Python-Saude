@@ -9,6 +9,7 @@ Estatísticas que predizem a saúde: Este projeto visa criar um sistema de monit
 Características
 Coleta de informações demográficas e sanitárias.
 Exame do tempo de espera e contentamento com o serviço prestado.
+
 Sugestões para aprimorar o acesso à saúde.
 Tecnologias Empregadas
 Python
@@ -16,4 +17,5 @@ Pandas
 PostgreSQL
 BigData
 Bootstrap
+
 #Contribuição Este trabalho totalmente aberto para melhorias ou correções!
